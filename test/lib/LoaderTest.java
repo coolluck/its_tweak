@@ -1,6 +1,4 @@
-package dal;
-
-import static org.junit.Assert.*;
+package lib;
 
 /**
  * Created by coolluck on 11/21/15.
